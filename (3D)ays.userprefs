@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Sphere.cs">
+    <Files>
+      <File FileName="Assets\scripts\restart.cs" Line="15" Column="1" />
+      <File FileName="Assets\scripts\start.cs" Line="11" Column="3" />
+      <File FileName="Assets\scripts\destroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Sphere.cs" Line="14" Column="10" />
+      <File FileName="Assets\scripts\rotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\rotateobj.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\camera.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\raycast.cs" Line="22" Column="15" />
+      <File FileName="Assets\scripts\hitter.cs" Line="19" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
